@@ -14,4 +14,5 @@ you can contact me on my portfolio website which is available on my GitHub.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parham-ab&theme=tokyonight)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=parham-ab&theme=tokyonight)<br/>
 ---
-[![](https://visitcount.itsvg.in/api?id=parham-ab&icon=5&color=9)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=parham-ab&icon=5&color=9)](https://visitcount.itsvg.in)
+ -->
