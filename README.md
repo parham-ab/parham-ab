@@ -5,7 +5,6 @@ you can contact me on my portfolio website which is available on my GitHub.
 ## 🌐Socials
 <a href="https://stackoverflow.com/users/17993635"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
 <a href="https://linkedin.com/in/parham-abolghasemi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
-<a href="https://live:parham.ab67"><img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?logo=Skype&logoColor=white&style=for-the-badge" alt="Skype" /></a>
 <a href="https://parhamab17@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 # 💻Tech Stack
