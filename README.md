@@ -1,6 +1,6 @@
 # 👦🏻About Me :
 Hi everyone! My name is Parham & I'm a Front-End Developer. My behavioral characteristics include honesty at work & High flexibility which is suitable for different situations. I have a lot of compassion and commitment to my responsibilities, I'm always looking to learn new things.
-you can contact me on my portfolio website which is available on my GitHub.
+you can contact me on my portfolio website which is available on my GitHub profile.
 
 ## 🌐Socials
 <p align="center"> 
