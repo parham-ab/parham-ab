@@ -2,6 +2,8 @@
 Hi everyone! My name is Parham & I'm a Front-End Developer. My behavioral characteristics include honesty at work & High flexibility which is suitable for different situations. I have a lot of compassion and commitment to my responsibilities, I'm always looking to learn new things.
 you can contact me on my portfolio website which is available on my GitHub profile.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7D34C&width=435&lines=Im+a+programmer;Im+a+Front-End+developer;Im+a+freelancer;Im+a+web+designer)](https://git.io/typing-svg)
+
 ## 🌐Socials
 <p align="center"> 
 <a href="https://stackoverflow.com/users/17993635"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
@@ -31,7 +33,6 @@ you can contact me on my portfolio website which is available on my GitHub profi
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=parham-ab&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parham-ab&theme=tokyonight" />
- <img src="https://github-profile-trophy.vercel.app/?username=parham-ab&theme=tokyonight" />
 </div>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=parham-ab&icon=5&color=9)](https://visitcount.itsvg.in)
