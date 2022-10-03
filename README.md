@@ -35,11 +35,10 @@ you can contact me on my portfolio website which is available on my GitHub profi
  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </div>
  
-# 📊GitHub Stats :
+<!-- # 📊GitHub Stats :
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=parham-ab&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parham-ab&theme=tokyonight" />
-</div>
+</div> -->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=parham-ab&icon=5&color=9)](https://visitcount.itsvg.in)
  -->
