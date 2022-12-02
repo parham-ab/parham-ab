@@ -9,7 +9,8 @@ you can contact me on my portfolio website which is available on my GitHub profi
 <!-- <a href="https://linkedin.com/in/parham-abolghasemi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a> -->
 <a href="https://linkedin.com/in/parham-abolghasemi"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="Linkedin" title="Linkedin" /></a>
 <a href="https://stackoverflow.com/users/17993635"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="36" height="36" alt="Stackoverflow" title="Stackoverflow" /></a>
-<a href="https://parhamab17@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="mailto:parhamab17@gmail" target="blank"><img src="https://pngroyale.com/wp-content/uploads/2021/11/Download-gmail-email-logo-png-1-1-768x555.png" alt="Gmail" height="32" width="45" title="Gmail" /></a>
+<!-- <a href="https://parhamab17@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> -->
 <a href='https://parham-ab.netlify.app'><img alt='Website' title='Website' src='https://custom-icon-badges.herokuapp.com/badge/-website-4a62c2?style=for-the-badge&logoColor=white&logo=globe' />
 <!-- <a href="https://parham-ab.netlify.app"><img src="https://img.shields.io/badge/Website-444c82?logo=internetexplorer&logoColor=fff&style=for-the-badge" alt="Website" title='Website' /></a> -->
 <!-- <a href="https://stackoverflow.com/users/17993635"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a> -->
@@ -36,6 +37,8 @@ you can contact me on my portfolio website which is available on my GitHub profi
  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" /> 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 <!--  
 # 📊GitHub Stats :
 <div align="center">
