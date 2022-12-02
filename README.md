@@ -6,11 +6,13 @@ you can contact me on my portfolio website which is available on my GitHub profi
 
 ## 🌐Socials
 <p align="center">
-<a href="https://linkedin.com/in/parham-abolghasemi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+<!-- <a href="https://linkedin.com/in/parham-abolghasemi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a> -->
+<a href="https://linkedin.com/in/parham-abolghasemi"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="Linkedin" title="Linkedin" /></a>
+<a href="https://stackoverflow.com/users/17993635"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="36" height="36" alt="Stackoverflow" title="Stackoverflow" /></a>
 <a href="https://parhamab17@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<!-- <a href='https://parham-ab.netlify.app'><img alt='website' title='website' src='https://custom-icon-badges.herokuapp.com/badge/-website-4a62c2?style=for-the-badge&logoColor=white&logo=globe' /> -->
-<a href="https://parham-ab.netlify.app"><img src="https://img.shields.io/badge/Website-444c82?logo=internetexplorer&logoColor=fff&style=for-the-badge" alt="Website" title='Website' /></a>
-<a href="https://stackoverflow.com/users/17993635"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+<a href='https://parham-ab.netlify.app'><img alt='Website' title='Website' src='https://custom-icon-badges.herokuapp.com/badge/-website-4a62c2?style=for-the-badge&logoColor=white&logo=globe' />
+<!-- <a href="https://parham-ab.netlify.app"><img src="https://img.shields.io/badge/Website-444c82?logo=internetexplorer&logoColor=fff&style=for-the-badge" alt="Website" title='Website' /></a> -->
+<!-- <a href="https://stackoverflow.com/users/17993635"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a> -->
 <a href="https://gitlab.com/parham-ab"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gmail" /></a>
 </a>
 </p>
@@ -27,18 +29,16 @@ you can contact me on my portfolio website which is available on my GitHub profi
  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
- <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+ <img src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" /> 
 </div>
- 
-<!-- # 📊GitHub Stats :
+<!--  
+# 📊GitHub Stats :
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=parham-ab&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
 </div> -->
 
-<!-- [![](https://visitcount.itsvg.in/api?id=parham-ab&icon=5&color=9)](https://visitcount.itsvg.in)
- -->
+<!-- [![](https://visitcount.itsvg.in/api?id=parham-ab&icon=5&color=9)](https://visitcount.itsvg.in) -->
