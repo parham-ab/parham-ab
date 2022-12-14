@@ -1,5 +1,5 @@
 # 👦🏻About Me :
-Hello everyone! I’m Parham, a Front-End Developer. My behavioral characteristics include honesty at work & High flexibility which are suitable for different situations. I have so much seriousness and commitment to my responsibilities & also I'm always looking for learning new things.
+Hello everyone! I’m Parham, a Front-End Developer. My behavioral characteristics include honesty at work & High flexibility which are suitable for different situations. Having so much duties and looking for learning new things are my priorities.
 You can contact me through my portfolio website which is available on my GitHub profile.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7D34C&width=435&lines=Im+a+programmer;Im+a+Front-End+developer;Im+a+freelancer;Im+a+web+designer)](https://git.io/typing-svg)
