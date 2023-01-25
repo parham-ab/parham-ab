@@ -39,7 +39,8 @@ You can contact me through my portfolio website which is available on my GitHub 
  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" /> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 <!--  
 # 📊GitHub Stats :
 <div align="center">
