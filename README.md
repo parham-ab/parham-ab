@@ -47,6 +47,8 @@ You can contact me through my portfolio website which is available on my GitHub 
  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
  <img src="https://img.shields.io/badge/redux toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+ <img src="https://img.shields.io/badge/React Form Hook-ff7aa8?style=for-the-badge&logo=reacthookform&logoColor=white" />
+ <img src="https://img.shields.io/badge/Formik-0052cc?style=for-the-badge&logo=formik&logoColor=white" />
 </p>
 
 <p align="center">
