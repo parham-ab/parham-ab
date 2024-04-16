@@ -46,7 +46,7 @@ You can contact me through my portfolio website which is available on my GitHub 
  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
  <img src="https://img.shields.io/badge/redux toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
  <img src="https://img.shields.io/badge/Zustand-8E75B2?style=for-the-badge&logo=zustand&logoColor=white" />
- <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white">
+ <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
 </p>
 
 <p align="center">
