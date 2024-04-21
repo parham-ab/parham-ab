@@ -15,6 +15,8 @@ You can contact me through my portfolio website which is available on my GitHub 
  &nbsp;
 <a href="https://gitlab.com/parham-ab"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /></a>
  &nbsp;
+<a href="https://discordapp.com/users/parham_0"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
+ &nbsp;
 </p>
 
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
