@@ -1,6 +1,6 @@
 # 👦🏻About Me :
-Hello everyone! I’m Parham, a Front-End Developer. My behavioral characteristics include honesty at work & high flexibility which are suitable for different situations. Having so much commitment to my duties and looking for learning new things are my priorities.
-You can contact me through my portfolio website which is available on my GitHub profile.
+Front-end developer with 3+ years of experience building high-performance web applications. Proficient in React, Next.js, TypeScript, Redux and TailwindCSS, with a strong focus on creating scalable, reusable components and intuitive user interfaces. Skilled in debugging, Troubleshooting and optimizing performance, with expertise in modern UI development, accessibility and best practices.
+An Ingenious and resilient developer with excellent communication, planning and coordination abilities, dedicated to product development, code quality and delivering seamless user experiences. Thrives in fast-paced environments, collaborating with teams and continuously expanding technical expertise to drive innovation.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=100&size=23&duration=3000&pause=1000&color=FAE600&background=FFFFFF00&vCenter=true&width=400&lines=I'm+a+Programmer;I'm+a+Front-End+developer;I'm+a+web+developer;I'm+a+Freelancer)](https://git.io/typing-svg)
 
