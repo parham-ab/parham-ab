@@ -1,5 +1,5 @@
 # 👦🏻About Me :
-Dedicated Frontend Developer with a bachelor’s degree in software engineering and 4+ years of experience building high performance web applications. Proficient in JavaScript, React and Next.js, with a strong focus on creating scalable, reusable components and intuitive user interfaces. Skilled in debugging, troubleshooting and optimizing performance to enhance user experience. Committed to product development, code quality and delivering seamless user experiences. Thrives in fast-paced environments, collaborating with teams and continuously expanding technical expertise to drive innovation.
+Front-End Developer with 4+ years of experience with a bachelor's degree in Software Engineering, focused on building high-performance web applications. Proficient in JavaScript, React, and Next.js, with a strong track record of creating scalable components and user-friendly interfaces. Experienced in debugging, mentoring, and optimizing performance to deliver superior user experiences and maintain high-quality, maintainable code.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=100&size=23&duration=3000&pause=1000&color=FAE600&background=FFFFFF00&vCenter=true&width=400&lines=I'm+a+Programmer;I'm+a+Front-End+developer;I'm+a+web+developer;I'm+a+Freelancer)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@ Dedicated Frontend Developer with a bachelor’s degree in software engineering 
  &nbsp;
 <a href="https://stackoverflow.com/users/17993635"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stackoverflow" /></a>
  &nbsp;
-<a href="https://gitlab.com/parham-ab"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /></a>
+<a href="https://gitlab.com/parham-abolghasemi"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /></a>
  &nbsp;
 <a href="https://discordapp.com/users/parham_0"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
  &nbsp;
