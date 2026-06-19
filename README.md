@@ -12,10 +12,10 @@ Front-End Developer with 5+ years of experience with a bachelor's degree in Comp
  &nbsp;
 <a href="https://stackoverflow.com/users/17993635" title="StackOverflow"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" /></a>
  &nbsp;
-<a href="https://gitlab.com/parham-abolghasemi" title="GitLab"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /></a>
+<!-- <a href="https://gitlab.com/parham-abolghasemi" title="GitLab"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /></a>
  &nbsp;
 <a href="https://discordapp.com/users/parham_0" title="Discord"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
- &nbsp;
+ &nbsp; -->
 <a href="https://parham-ab.netlify.app" title="Portfolio"><img src="https://skillicons.dev/icons?i=netlify" alt="Portfolio" /></a>
  &nbsp;
 </p>
